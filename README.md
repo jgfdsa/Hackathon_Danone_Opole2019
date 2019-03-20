@@ -8,7 +8,9 @@
 <p align="center">
   <img width="460" height="300" src="https://github.com/jgfdsa/Hackathon_Danone_Opole2019/blob/master/IT%20Meetup%20Opole%20%232%20-%20Machine%20Learning/notebooks/img/Hackathon%20image.PNG?raw=true">
 </p>
+
 ____________________________
+
 # Repository introduction
 The data explained here represents the historical data from several years of baby-food production. Different recipes are under consideration. This data is being released as a challenge for the HACKATHON DANONE AI MASTERS OPOLE 2019, MACHINE LEARNING CHALLENGE.
 
