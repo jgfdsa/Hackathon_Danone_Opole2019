@@ -6,7 +6,7 @@
 ### More information about the events can be consulted [here](http://hackathon.opole.pl/index.php/en/)
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/jgfdsa/Hackathon_Danone_Opole2019/blob/master/IT%20Meetup%20Opole%20%232%20-%20Machine%20Learning/notebooks/img/Hackathon%20image.PNG?raw=true">
+  <img src="https://github.com/jgfdsa/Hackathon_Danone_Opole2019/blob/master/IT%20Meetup%20Opole%20%232%20-%20Machine%20Learning/notebooks/img/Hackathon%20image.PNG?raw=true">
 </p>
 
 ____________________________
