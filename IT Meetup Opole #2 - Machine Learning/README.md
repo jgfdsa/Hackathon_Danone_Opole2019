@@ -6,3 +6,5 @@ The hosts of the meeting will be Park Naukowo-Technologiczny w Opolu Sp. z o.o. 
 In connection with the Opole programming marathon "Hackathon DANONE AI Masters Opole 2019" planned for 12-13 April, we invited a lecturer who will bring closer the subject of artificial intelligence and machine learning.
 
 Speaker of "IT MeetUp Opole - Machine Learning" will be: _Jose Gregorio Ferreira_
+
+![test](notebooks/img/Danone.png)
