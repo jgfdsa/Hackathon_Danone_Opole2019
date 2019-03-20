@@ -7,8 +7,9 @@ In connection with the Opole programming marathon "Hackathon DANONE AI Masters O
 
 Speaker of "IT MeetUp Opole - Machine Learning" will be: _Jose Gregorio Ferreira_
 
-![Danone](notebooks/img/Danone.png)
-
+<p align="center">
+  <img width="460" height="300" src="notebooks/img/Danone.png">
+</p>
 _______________________
 
 # Instruction to set-up python
