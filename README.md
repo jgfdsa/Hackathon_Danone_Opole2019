@@ -1,11 +1,14 @@
-# Hackathon Danone AI Masters, Opole 2019
+<p align="center">
+  <img src="https://github.com/jgfdsa/Hackathon_Danone_Opole2019/blob/master/IT%20Meetup%20Opole%20%232%20-%20Machine%20Learning/notebooks/img/Hackathon%20image.PNG?raw=true">
+</p>
+
 ### This repository will be used as code and instructions source for the HACKATHON DANONE AI MASTERS OPOLE 2019.
 
 ### A pre-hackathon Meetup, IT Meetup Opole#2, is organised on March 21st, 2019. All the information shared during this event is posted here containing some basic instructions on how the data was prepared and a full description of the industrial processes followed during the baby-food production
 
 ### More information about the events can be consulted [here](http://hackathon.opole.pl/index.php/en/)
-
 ____________________________
+
 # Repository introduction
 The data explained here represents the historical data from several years of baby-food production. Different recipes are under consideration. This data is being released as a challenge for the HACKATHON DANONE AI MASTERS OPOLE 2019, MACHINE LEARNING CHALLENGE.
 
