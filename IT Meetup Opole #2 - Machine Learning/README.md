@@ -29,7 +29,7 @@ Either you had it installed or just finished the installation, please follow the
 
 5.- Running jupyer:
 
-	5.1- In a stand alone system, just execute jupyer from anaconda navigator or just type in the command prompt: jupyter notebook.
+	5.1- In a stand-alone system, just execute jupyer from anaconda navigator or just type in the command prompt: jupyter notebook.
 	5.2- If you are using a remote Linux machine please run: jupyter notebook --no-browser --port=8022, and then in a separated console run ssh -L 8022:127.0.0.1:8022 hack@5.226.96.156 -p 8022 to open an SSH tunnel.
 	
 6.- Finally, copy the link that jupyter generated for you, together with a token, and paste in the browser of your local system
