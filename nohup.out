@@ -1,0 +1,18 @@
+[I 06:40:13.425 NotebookApp] [nb_conda_kernels] enabled, 2 kernels found
+[I 06:40:13.439 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 06:40:13.768 NotebookApp] JupyterLab extension loaded from /home/hack/anaconda3/envs/MeetUp_env/lib/python3.7/site-packages/jupyterlab
+[I 06:40:13.768 NotebookApp] JupyterLab application directory is /home/hack/anaconda3/envs/MeetUp_env/share/jupyter/lab
+[I 06:40:13.770 NotebookApp] Serving notebooks from local directory: /home/hack/repositories/Hackathon_Danone_Opole2019
+[I 06:40:13.771 NotebookApp] The Jupyter Notebook is running at:
+[I 06:40:13.771 NotebookApp] http://localhost:8022/?token=a2d1639d764033be63a25d86be9971651d552d41d8b219d6
+[I 06:40:13.771 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 06:40:13.775 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-717-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8022/?token=a2d1639d764033be63a25d86be9971651d552d41d8b219d6
+[I 06:41:25.453 NotebookApp] 302 GET /?token=a2d1639d764033be63a25d86be9971651d552d41d8b219d6 (127.0.0.1) 1.90ms
+[I 17:09:07.648 NotebookApp] 302 GET /?token=a2d1639d764033be63a25d86be9971651d552d41d8b219d6 (127.0.0.1) 1.24ms
+[I 17:09:21.509 NotebookApp] Shutting down on /api/shutdown request.
+[I 17:09:21.511 NotebookApp] Shutting down 0 kernels
