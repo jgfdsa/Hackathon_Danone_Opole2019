@@ -47,7 +47,7 @@ INSERT INTO [dbo].[results_test_dataset]
            ,[created_date]
            ,[last_modified])
      VALUES
-           (<recipe, bigint,>
+           (<recipe, bigint,> -- it has to be 10312361 OR 10312369
            ,<team_name, nvarchar(250),>
            ,<team_id, nvarchar(50),>
            ,<github_repository_url, nvarchar(max),>
@@ -133,3 +133,4 @@ def db_sql(sql):
 
 - In the slurry, 66% of water content stands for: 380 liters for recipe 0 (10312361)
 - For the recipe 1 (10312369) 66% of water content stands for: 420 liters.
+- A correction was made in the sqlalchemy engine
