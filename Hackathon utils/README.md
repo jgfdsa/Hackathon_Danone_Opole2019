@@ -16,6 +16,10 @@ Before going to the specifics for this hackathon, some general remarks:
 - In this repository you will find, in the notebooks folder, ready notebooks you can directly re-use to extract the data or feel free to copy the part of the code that interests you.
 - It is strongly advised you create a simple script to store your credentials. And then, load them from your scripts.
 
+# Data split
+
+For each recipe, you have a table *orders_details*. The column [data_split] give you the information to split the data between training and test.
+
 # Submission instructions
 
 During the first 12 hours of the hackathon, you will have the opportunity to submit the results from evaluating your algorithm in the test dataset.
