@@ -120,7 +120,7 @@ password = ''
 driver= '/opt/microsoft/msodbcsql17/lib64/libmsodbcsql-17.3.so.1.1'
 server = '192.168.250.3'
 
-my_engine = create_engine(f"""mssql+pyodbc://{username}:{password}@{server}:1433/{database}?driver={server}', fast_executemany=True""" )
+my_engine = create_engine(f"""mssql+pyodbc://{username}:{password}@{server}:1433/{database}?driver={driver}', fast_executemany=True""" )
 
 def db_sql(sql):
     cnxn = pyodbc.connect(f'DRIVER={driver};PORT=1433;SERVER={server};DATABASE={database};UID={username};PWD={password}')
@@ -128,3 +128,8 @@ def db_sql(sql):
     cnxn.close()    
     return data
 ```
+
+# ANNOUCEMENT - 2019-04-12 20:50
+
+In the slurry, 66% of water content stands for: 380 liters for recipe 0 (10312361)
+For the recipe 1 (10312369) 66% of water content stands for: 420 liters.
