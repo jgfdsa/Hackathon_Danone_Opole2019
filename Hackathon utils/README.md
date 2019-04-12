@@ -131,5 +131,5 @@ def db_sql(sql):
 
 # ANNOUCEMENT - 2019-04-12 20:50
 
-In the slurry, 66% of water content stands for: 380 liters for recipe 0 (10312361)
-For the recipe 1 (10312369) 66% of water content stands for: 420 liters.
+- In the slurry, 66% of water content stands for: 380 liters for recipe 0 (10312361)
+- For the recipe 1 (10312369) 66% of water content stands for: 420 liters.
