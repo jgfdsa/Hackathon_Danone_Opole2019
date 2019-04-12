@@ -120,7 +120,7 @@ password = ''
 driver= '/opt/microsoft/msodbcsql17/lib64/libmsodbcsql-17.3.so.1.1'
 server = '192.168.250.3'
 
-my_engine = create_engine(f"""mssql+pyodbc://{username}:{password}@{server}:1433/{database}?driver={driver}', fast_executemany=True""" )
+my_engine = create_engine(f'mssql+pyodbc://{username}:{password}@192.168.250.3:1433/{database}?driver={driver}', fast_executemany=True)
 
 def db_sql(sql):
     cnxn = pyodbc.connect(f'DRIVER={driver};PORT=1433;SERVER={server};DATABASE={database};UID={username};PWD={password}')
