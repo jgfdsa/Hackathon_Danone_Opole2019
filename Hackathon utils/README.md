@@ -132,3 +132,35 @@ def db_sql(sql):
 - In the slurry, 66% of water content stands for: 380 liters for recipe 0 (10312361)
 - For the recipe 1 (10312369) 66% of water content stands for: 420 liters.
 - A correction was made in the sqlalchemy engine
+
+# ANNOUCEMENT - Evaluation insert script
+
+```python
+USE [hackathon_danone]
+GO
+
+INSERT INTO [dbo].[results_validation_dataset]
+           ([recipe]
+           ,[team_name]
+           ,[team_id]
+           ,[github_repository_url]
+           ,[commit_hash]
+           ,[orders_details_id]
+           ,[bigbad_id]
+           ,[efficiency]
+           ,[moisture]
+           ,[bulk_density]
+     VALUES
+           (<recipe, bigint,>
+           ,<team_name, nvarchar(250),>
+           ,<team_id, nvarchar(50),>
+           ,<github_repository_url, nvarchar(max),>
+           ,<commit_hash, nvarchar(40),>
+           ,<orders_details_id, int,>
+           ,<bigbad_id, float,>
+           ,<efficiency, float,>
+           ,<moisture, float,>
+           ,<bulk_density, float,>
+GO
+```
+
