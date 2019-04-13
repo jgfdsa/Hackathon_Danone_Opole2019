@@ -44,8 +44,6 @@ INSERT INTO [dbo].[results_test_dataset]
            ,[accuracy]
            ,[RMSE]
            ,[R2]
-           ,[created_date]
-           ,[last_modified])
      VALUES
            (<recipe, bigint,> -- it has to be 10312361 OR 10312369
            ,<team_name, nvarchar(250),>
